@@ -1,0 +1,5 @@
+VCD info: dumpfile saida.vcd opened for output.
+a=001, b=000, saida_or_bit_a_bit=001, saida_or_logico=1, saida_not=111110
+a=001, b=001, saida_or_bit_a_bit=001, saida_or_logico=1, saida_not=110110
+a=001, b=010, saida_or_bit_a_bit=011, saida_or_logico=1, saida_not=101110
+a=001, b=011, saida_or_bit_a_bit=011, saida_or_logico=1, saida_not=100110
